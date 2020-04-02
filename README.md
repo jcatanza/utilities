@@ -1,4 +1,10 @@
-# fastai_notebooks
+# fastai utilities
+
+
+1. extract_table.ipynb
+Notebook to extract tables from webpages
+2. .ipynb
+3. empirical_p_value.ipynb
 This notebook was inspired by Jeremy's Lesson 2 discussion of Figure 1(a) in the paper "High Temperature and High Humidity Reduce the Transmission of COVID-19" at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551767.
 
 We show how to empirically determine the p-value via Monte Carlo simulation, and apply this method to the data from Figure 1(a).
