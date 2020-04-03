@@ -1,4 +1,4 @@
-# fastai utilities
+# utilities
 
 
 1. `extract_table.ipynb`
